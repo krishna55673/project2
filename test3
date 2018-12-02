@@ -1,0 +1,8 @@
+[200~
+git push
+git add filename
+git status
+git commit -m "desc" filename
+git log
+git show cid
+git pus
