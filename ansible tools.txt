@@ -1,0 +1,24 @@
+1.ansible:- Define and run a single task ‘playbook’ against a set of hosts
+
+2.ansible-playbook:-Runs Ansible playbooks, executing the defined tasks on the targeted hosts.
+
+3.ansible-vault:-encryption/decryption utility for Ansible data files
+
+4.ansible-galaxy:command to manage Ansible roles in shared repostories, the default of which is Ansible Galaxy https://galaxy.ansible.com.		
+
+5.ansible-console:- REPL console for executing Ansible tasks.
+
+6.ansible-config:-View, edit, and manage ansible configuration.
+
+7.ansible-doc:- plugin documentation tool
+
+8.ansible-inventory:-used to display or dump the configured inventory as Ansible sees it
+
+9.ansible-pull:-pulls playbooks from a VCS repo and executes them for the local host
+
+
+8867795339
+sam
+9704151564
+ajay
+
